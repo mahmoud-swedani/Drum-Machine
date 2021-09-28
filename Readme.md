@@ -1,7 +1,7 @@
 # Build a Drum Machine
 * [demo](https://codepen.io/mahmoud-swedani/full/PojVYgM)
 
-* [corse code in codepen](https://codepen.io/mahmoud-swedani/pen/PojVYgM)
+* [sourse code in codepen](https://codepen.io/mahmoud-swedani/pen/PojVYgM)
 
 * User Story #1: I should be able to see an outer container with a corresponding id="drum-machine" that contains all other elements.
 
